@@ -10,3 +10,41 @@ The socket communication is very fast (interrupt based). The execution time of t
 Coding examples are available.
 
 For questions we have a Discord Channel.
+
+# Implemented functions
+
+1.	Instantiation.
+2.	Connect to server.
+3.	Check connection.
+4.	Disconnect from MT terminal.
+5.	Change time out value.
+6.	Get broker server time.
+7.	Get static account information.
+8.	Get dynamic account information.
+9.	Get instrument information.
+10.	Get broker instrument names.	
+11.	Check instrument in market watch.
+12.	Check license type.	
+13.	Check trading allowed.
+14.	Check terminal type.	
+15.	Check terminal server connection.	
+16.	Get last tick information.	
+17.	Get actual bar information	
+18.	Get specific bars.
+19.	Get last x ticks from now.
+20.	Get last x bars from now.
+21.	Open order.
+22.	Set SL and TP for position.
+23.	Set SL and TP for order (pendings).
+24.	Reset stop_loss and take profit for position.
+25.	Reset stop loss and take profit for pending order.
+26.	Change settings for pending order.
+27.	Delete pending order.	
+28.	Close position.	
+29.	Close position partial.	
+30.	Close position by opposite position(CloseBy).
+31.	Close positions async.
+32.	Get all pending orders.
+33.	Get all deleted pending orders within window.	
+34.	Get all deleted pending orders.	
+
