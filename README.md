@@ -34,9 +34,9 @@ For questions we have a Discord Channel.
 19.	Get last x ticks from now.
 20.	Get last x bars from now.
 21.	Open order.
-22.	Set SL and TP for position.
-23.	Set SL and TP for order (pendings).
-24.	Reset stop_loss and take profit for position.
+22.	Set stop loss and take profit for position.
+23.	Set stop loss and take profit for order (pendings).
+24.	Reset stop loss and take profit for position.
 25.	Reset stop loss and take profit for pending order.
 26.	Change settings for pending order.
 27.	Delete pending order.	
