@@ -1,15 +1,16 @@
-# JsTraderApi
+### JsTraderApi
 
-The JsTraderApi is a connection/interface between javascript strategy and a MT4/5 terminal.  The functionality is an anology to our wel known Pytrader_API used by many user strategies coded in python. Besides the JsTraderApi an EA is needed for MT4 and MT5 terminal. These are also part of the system. The demo version has full functionality for the following instruments: EURUSD, AUDCHF, NZDCHF, GBPNZD and USDCAD. Dax is added as index instrument in the demo. The functionality is documented in an .pdf file
+
+The JsTraderApi is a connection/interface between javascript strategy and a MT4/5 terminal.  The functionality is an anology to our well known Pytrader_API used by many user strategies coded in python. Besides the JsTraderApi an EA is needed for MT4 and MT5 terminal. These are also part of the system. The demo version has full functionality for the following instruments: EURUSD, AUDCHF, NZDCHF, GBPNZD and USDCAD. Dax is added as index instrument in the demo. The functionality is documented in an .pdf file
 
 
 A MT4 or MT5 terminal must be running. The appropriate EA must be runnng in one chart. Socket server port and for licensed version the folder with the authentication indicator must be filled in. In demo the system is working full functioning for the above mentioned instrument. The authentication indicator can be acquired via MQL5 Markets.
 
 The socket communication is very fast (interrupt based). The execution time of the function depends on the function and selected broker. The MT terminal acts as server and the JsTraderApi as client, so always question / answer.
 
-Coding examples are available.
+# Coding examples are available:
 
-For questions we have a Discord Channel.
+For questions join our Discord Sever.
 
 # Implemented functions
 
@@ -46,5 +47,16 @@ For questions we have a Discord Channel.
 31.	Close positions async.
 32.	Get all pending orders.
 33.	Get all deleted pending orders within window.	
-34.	Get all deleted pending orders.	
+34.	Get all deleted pending orders.
+
+Join Our Discord: 
+
+Join discord community and support channel:
+https://discord.gg/DUCV9jxKF6
+
+
+(Join Our best Trading Broker[https://track.deriv.be/_ftmJINnYNJE5TVC3w-F7AGNd7ZgqdRLk/4/])
+
+
+
 
